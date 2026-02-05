@@ -17,7 +17,7 @@ Uygulama; namaz vakitlerini görüntüleme, kıble yönünü bulma ve temel dini
 ## 🎥 Tanıtım & Tasarım Videosu
 
 Uygulamanın tasarımını, sayfa geçişlerini ve genel kullanıcı deneyimini incelemek için:  
-👉 **[YouTube Tasarım Videosu](BURAYA_YOUTUBE_LINKI_EKLE)**
+👉 **[YouTube Tasarım Videosu](https://www.youtube.com/@cengaverfurkan/)**
 
 ---
 
