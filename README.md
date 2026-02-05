@@ -33,6 +33,10 @@ Uygulamanın tasarımını, sayfa geçişlerini ve genel kullanıcı deneyimini 
 |-----------|--------|---------|
 | ![](images/zikr.png) | ![](images/quran.png) | ![](images/drawer.png) |
 
+| Gittiğim Camiler |
+|-----------|
+![](images/camii.png)
+
 ---
 
 ## 🧭 Uygulama Sayfaları
@@ -79,6 +83,12 @@ Uygulama **5 ana sayfa + yan menü (drawer)** mimarisi ile tasarlanmıştır.
 ### ☰ Yan Menü (Drawer)
 - Sayfalar arası hızlı geçiş sağlar
 - Uygulamanın navigasyon merkezidir
+
+---
+
+### ☰ Gittiğim Camiler
+- Gidilen Camileri Not Alabileceğiniz Bir Sayfadır.
+- Uygulamanın not kısmı gibi olabilir
 
 ---
 
